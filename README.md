@@ -123,7 +123,7 @@ C’est une compétence essentielle pour les rôles **SOC Analyst L1**, **Cybers
 
 ---
 
-## Ajouter le rapport PDF au repo  
+## Rapport détaillé
 
 ```markdown
 [Voir le rapport PDF complet](assets/files/File_permissions_in_Linux.pdf)
